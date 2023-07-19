@@ -1,0 +1,9 @@
+{
+    "elixit_interpolation": {
+        "prefix": "et",
+        "body": [
+            "<%= ${0} %>"
+        ],
+        "description": "interpolation"
+    }
+}
