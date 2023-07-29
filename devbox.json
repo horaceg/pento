@@ -5,7 +5,8 @@
     "bash@latest",
     "postgresql@latest",
     "glibcLocales@latest",
-    "inotify-tools@latest"
+    "inotify-tools@latest",
+    "livebook@latest"
   ],
   "shell": {
     "init_hook": [

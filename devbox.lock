@@ -31,6 +31,12 @@
       "source": "devbox-search",
       "version": "3.22.6.0"
     },
+    "livebook@latest": {
+      "last_modified": "2023-07-25T23:32:12Z",
+      "resolved": "github:NixOS/nixpkgs/a9b47d85504bdd199e90846622c76aa0bfeabfac#livebook",
+      "source": "devbox-search",
+      "version": "0.10.0"
+    },
     "postgresql@latest": {
       "last_modified": "2023-06-29T16:20:38Z",
       "plugin_version": "0.0.2",
